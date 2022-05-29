@@ -638,7 +638,7 @@ var src_App = __webpack_require__(7);
 
 
 var App_App = function App() {
-  return /*#__PURE__*/react_default.a.createElement("header", null, "Witaj worldfgbg ");
+  return /*#__PURE__*/react_default.a.createElement("header", null, "Witaj world publikacja ");
 };
 
 /* harmony default export */ var src_App_0 = (App_App);
